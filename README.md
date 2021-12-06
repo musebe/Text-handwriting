@@ -733,5 +733,5 @@ npm run dev
 
 See the Next.js documentation for information on how to build for other environments and also how to optimize your code. It's worth mentioning that this is a very simple implementation and is in no way intended to be applied to a production environment. There's lot's of ways you can optimize our implementation for a fast production environment.
 
-Congrats for making it to the end. You can find the full source code on my [Github](https://github.com/newtonmunene99/text-to-handwritten-page)
+Congrats for making it to the end. You can find the full source code on my [Github](https://github.com/musebe/Text-handwriting)
 
